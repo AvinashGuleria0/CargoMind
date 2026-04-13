@@ -1,0 +1,57 @@
+[
+  {
+    "city": "Delhi",
+    "state": "Delhi",
+    "market": "Azadpur Mandi",
+    "crop_prices_inr_per_kg": {
+      "tomato": 22,
+      "onion": 30,
+      "potato": 24,
+      "cabbage": 18
+    }
+  },
+  {
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "market": "Kuberpur Agricultural Market",
+    "crop_prices_inr_per_kg": {
+      "tomato": 29,
+      "onion": 33,
+      "potato": 21,
+      "cabbage": 20
+    }
+  },
+  {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "market": "Muhana Mandi",
+    "crop_prices_inr_per_kg": {
+      "tomato": 25,
+      "onion": 28,
+      "potato": 19,
+      "cabbage": 17
+    }
+  },
+  {
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "market": "Dubagga Market Yard",
+    "crop_prices_inr_per_kg": {
+      "tomato": 27,
+      "onion": 31,
+      "potato": 20,
+      "cabbage": 18
+    }
+  },
+  {
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "market": "Choithram Sabzi Mandi",
+    "crop_prices_inr_per_kg": {
+      "tomato": 24,
+      "onion": 29,
+      "potato": 22,
+      "cabbage": 19
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "clinic_001",
+    "name": "Apollo Emergency Cold-Chain Clinic",
+    "city": "Delhi",
+    "address": "Sarita Vihar, New Delhi",
+    "lat": 28.5355,
+    "lng": 77.2927,
+    "supports_medical_cold_storage": true,
+    "contact": "+91-11-71791090"
+  },
+  {
+    "id": "clinic_002",
+    "name": "Fortis Rapid Response Clinic",
+    "city": "Noida",
+    "address": "Sector 62, Noida",
+    "lat": 28.6270,
+    "lng": 77.3700,
+    "supports_medical_cold_storage": true,
+    "contact": "+91-120-4200300"
+  },
+  {
+    "id": "clinic_003",
+    "name": "Medanta Stabilization Unit",
+    "city": "Gurugram",
+    "address": "Sector 38, Gurugram",
+    "lat": 28.4380,
+    "lng": 77.0400,
+    "supports_medical_cold_storage": true,
+    "contact": "+91-124-4141414"
+  }
+]
